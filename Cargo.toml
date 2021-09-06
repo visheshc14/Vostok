@@ -1,0 +1,21 @@
+[package]
+name = "DiscFunction"
+version = "0.1.0"
+authors = ["Vishesh Choudhary<vishachoudhary@gmail.com>"]
+edition = "2018"
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3
+
+[dependencies]
+tokio = { version = "1.2.0", features = ["full"] }
+hyper = { version = "0.14.4", features = ["full"] }
+hyper-rustls = { version = "0.22.1" }
+routerify = { version = "2.0.0-beta-4" }
+anyhow = { version = "1.0.38" }
+log = { version = "0.4.14" }
+fern = { version = "0.6.0" }
+chrono = { version = "0.4.19" }
