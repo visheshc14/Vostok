@@ -1,4 +1,4 @@
-# DiscFunction
+# Vostok
 
 > When you need to pretend you are a REST API, but you're really not
 
