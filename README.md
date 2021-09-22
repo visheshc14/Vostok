@@ -2,7 +2,7 @@
 
 > When you need to pretend you are a REST API, but you're really not
 
-DiscFunction is a Rust-Based HTTP Transformation Layer To Seamlessly Convert REST Calls Into GraphQL Calls For Piecemeal API Migrations.
+Vostok is a Rust-Based HTTP Transformation Layer To Seamlessly Convert REST Calls Into GraphQL Calls For Piecemeal API Migrations.
 
 ## Implementation Goal
 
