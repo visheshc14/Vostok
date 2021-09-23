@@ -52,7 +52,7 @@ Potentially:
 
 Some blog posts:
 
-- https://blog.logrocket.com/creating-a-rest-api-in-rust-with-warp/
-- https://blog.joco.dev/posts/warp_auth_server_tutorial
+- [Creating a Rest Api in Rust With Warp](https://blog.logrocket.com/creating-a-rest-api-in-rust-with-warp/)
+- [Warp Auth Server Tutorial](https://blog.joco.dev/posts/warp_auth_server_tutorial)
 - [Live coding an HTTP reverse proxy in Rust](https://www.youtube.com/watch?v=FcHYQMRfGWw) (and [gist](https://gist.github.com/snoyberg/35a661fff527692d09675ef540c7c1eb) of the code)
 - [benchmark of different web frameworks](https://github.com/routerify/routerify-benchmark)
